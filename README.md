@@ -88,6 +88,10 @@ Demonstrated how PPE and supervision correlate with injury cost
 <img width="659" alt="image" src="https://github.com/user-attachments/assets/97ddd6e1-4f0a-4724-a02d-783c6d35967f" />
 
 
+
+
+
+
 👤 Author
 Anthony Eddei Kwofie
 LinkedIn | GitHub
