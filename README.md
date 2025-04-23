@@ -1,66 +1,84 @@
+💼 OHS Incident Analytics Dashboard – Power BI
+Client: King Size Construction Ltd.
+Project Title: Occupational Incident Analytics Dashboard – Trends, Risks & Costs
+
 🏢 Company Overview
-King Size Construction Ltd. is a mid-sized civil engineering and construction firm based in Accra, Ghana. With a focus on residential, commercial, and infrastructure projects, the company employs over 500 workers across multiple active sites. Known for its commitment to safety, quality, and operational excellence, King Size Construction emphasizes proactive risk management and continuous improvement in workplace health and safety.
+King Size Construction Ltd. is a leading Ghanaian construction firm known for delivering high-quality infrastructure, civil engineering, and real estate projects. With a workforce operating across diverse and often hazardous environments, the company prioritizes workplace safety and aims to minimize operational risks through data-driven decision-making.
 
 📊 Project Overview
-This Power BI dashboard was developed to help King Size Construction monitor and manage occupational health and safety (OHS) incidents across its sites. With over 700 simulated incident records, the dashboard provides a real-time, interactive view of incident trends, severity levels, and root causes—empowering safety officers to make faster, data-informed decisions.
+To improve health and safety oversight, this Power BI dashboard was developed to analyze over 700 simulated occupational incidents. It centralizes information on incident severity, causes, costs, job roles involved, PPE usage, and more—empowering the HSE team to take proactive measures.
+
+Goal: Provide a real-time safety intelligence tool that enhances visibility, compliance, and strategic prevention efforts.
 
 🎯 Objectives
-Identify high-risk departments, locations, and behaviors
+Analyze injury trends over time and by role
 
-Track monthly incident trends and KPIs (e.g., severity rate, LTIs)
+Identify high-risk areas and root causes
 
-Visualize root causes and corrective actions
+Compare safety compliance and cost implications
 
-Enable data-driven safety planning and reporting
+Optimize PPE policies and site supervision
 
-🧩 Features & Metrics
-✅ Key Safety KPIs
+Enable better response planning and awareness
 
-Total Incidents | Lost Time Injuries (LTI) | Severity Rate | Frequency Rate
+📈 Dashboard Analysis
+This visual dashboard consists of six core components:
 
-📍 Hotspot Analysis
+🔹 1. Incident Severity by Year & Industry
+Trends show fluctuating incident severity across four industries, with Construction and Mining most affected. Useful for comparing risk exposure across sectors.
 
-Incidents by site and department with severity filters
+🔹 2. Severity by Job Role
+Top roles affected include Technicians, Electricians, and Welders—essential for deploying targeted safety programs.
 
-📅 Trend Analysis
+🔹 3. Injury Cause Distribution
+The pie chart highlights Chemical Exposure, Human Error, and Falls as primary contributors. These insights drive training focus and procedural reforms.
 
-Monthly and quarterly incident breakdowns
+🔹 4. Injury Type by Body Part & PPE Use
+Drill-down visuals break down injuries (Burns, Fractures, Lacerations) by body part and PPE usage. Reveals which injuries still occur even with PPE, guiding procurement and policy updates.
 
-🔎 Root Cause Breakdown
+🔹 5. Cost Estimate by PPE & Severity
+Stacked column chart shows fatal and major incidents with no PPE consistently incur higher costs, justifying stronger PPE enforcement.
 
-Unsafe behavior, environmental conditions, equipment failures
+🔹 6. Binary Filters
+Three quick filters—Supervision, Hazard Reported, and PPE Used—allow stakeholders to slice the data for root cause exploration.
 
-🧍 Personnel Analysis
+📁 Dataset Overview
+Structured mock data covering:
 
-Roles involved in incidents + headcount-adjusted rates
+incident_date, industry, job_role, incident_severity,
 
-🎛 Interactive Dashboard
+incident_cause, ppe_used, body_part, injury_type,
 
-Slicers for time, severity, location, department
-
-Drill-through to incident-level detail
-
-📁 Dataset
-700+ simulated records
-
-Columns include: Date, Incident_Type, Location, Severity, Root_Cause, Department, Employee_ID, Corrective_Actions
+cost_estimate_usd, supervision, hazard_reported
 
 🛠 Tools & Technologies
 Power BI Desktop
 
-Power Query (data cleanup)
+Power Query (data cleansing & prep)
 
-DAX (for custom KPIs)
+DAX (KPIs, cost modeling)
 
-Excel (initial data preprocessing)
+Excel (preliminary data formatting)
 
 💡 Challenges & Learnings
-Built normalized severity metrics using DAX
+Created flexible DAX measures for incident KPIs
 
-Applied dynamic filtering and drill-through logic
+Balanced visual density with usability for safety officers
 
-Created scalable dashboard for multi-site usage
+Filter interactions optimized for root-cause analysis
+
+Demonstrated how PPE and supervision correlate with injury cost
+
+📸 Dashboard Preview
+
 
 👤 Author
 Anthony Eddei Kwofie
 LinkedIn | GitHub
+
+📬 How to Use
+Open .pbix in Power BI Desktop
+
+Use year, role, and supervision filters to explore insights
+
+Adapt visuals to your organization’s structure or safety KPIs
