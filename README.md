@@ -85,7 +85,7 @@ Demonstrated how PPE and supervision correlate with injury cost
 
 
 📸 Dashboard Preview
-<img width="659" alt="image" src="https://github.com/user-attachments/assets/97ddd6e1-4f0a-4724-a02d-783c6d35967f" />
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/3f1381b3-e329-4bfb-be87-992319e3b2fc" />
 
 
 
