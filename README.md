@@ -1,5 +1,7 @@
 💼 OHS Incident Analytics Dashboard – Power BI
+
 Client: King Size Construction Ltd.
+
 Project Title: Occupational Incident Analytics Dashboard – Trends, Risks & Costs
 
 🏢 Company Overview
