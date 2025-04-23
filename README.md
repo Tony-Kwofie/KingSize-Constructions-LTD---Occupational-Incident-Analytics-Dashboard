@@ -120,10 +120,6 @@ Showcased how PPE compliance and supervision affect cost outcomes
 
 
 
-📸 Dashboard Preview
-<img width="633" alt="image" src="https://github.com/user-attachments/assets/ab49b2ff-739b-464c-ace7-b817946864a7" />
-
-
 👤 Author
 Anthony Eddei Kwofie
 🔗 LinkedIn
