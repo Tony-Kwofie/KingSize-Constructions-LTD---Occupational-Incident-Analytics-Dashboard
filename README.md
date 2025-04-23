@@ -1,6 +1,12 @@
 💼 OHS Incident Analytics Dashboard – Power BI
+
+
 🧾 Client: King Size Construction Ltd.
+
+
 📌 Project Title: Occupational Incident Analytics Dashboard – Trends, Risks & Costs
+
+
 
 🏢 Company Overview
 King Size Construction Ltd. is a leading Ghanaian construction firm known for delivering high-quality infrastructure, civil engineering, and real estate projects. With a workforce operating across diverse and often hazardous environments, the company prioritizes workplace safety and aims to minimize operational risks through data-driven decision-making.
@@ -101,11 +107,7 @@ Enhanced filter interactions for intuitive root cause tracing
 Showcased how PPE compliance and supervision affect cost outcomes
 
 📸 Dashboard Preview
-
 <img width="633" alt="image" src="https://github.com/user-attachments/assets/ab49b2ff-739b-464c-ace7-b817946864a7" />
-
-
-
 
 
 👤 Author
