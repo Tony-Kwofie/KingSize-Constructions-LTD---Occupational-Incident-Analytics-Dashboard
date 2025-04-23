@@ -4,13 +4,20 @@ Client: King Size Construction Ltd.
 
 Project Title: Occupational Incident Analytics Dashboard – Trends, Risks & Costs
 
+
 🏢 Company Overview
 King Size Construction Ltd. is a leading Ghanaian construction firm known for delivering high-quality infrastructure, civil engineering, and real estate projects. With a workforce operating across diverse and often hazardous environments, the company prioritizes workplace safety and aims to minimize operational risks through data-driven decision-making.
+
+
 
 📊 Project Overview
 To improve health and safety oversight, this Power BI dashboard was developed to analyze over 700 simulated occupational incidents. It centralizes information on incident severity, causes, costs, job roles involved, PPE usage, and more—empowering the HSE team to take proactive measures.
 
+
+
 Goal: Provide a real-time safety intelligence tool that enhances visibility, compliance, and strategic prevention efforts.
+
+
 
 🎯 Objectives
 Analyze injury trends over time and by role
@@ -22,6 +29,8 @@ Compare safety compliance and cost implications
 Optimize PPE policies and site supervision
 
 Enable better response planning and awareness
+
+
 
 📈 Dashboard Analysis
 This visual dashboard consists of six core components:
@@ -43,6 +52,8 @@ Stacked column chart shows fatal and major incidents with no PPE consistently in
 
 🔹 6. Binary Filters
 Three quick filters—Supervision, Hazard Reported, and PPE Used—allow stakeholders to slice the data for root cause exploration.
+
+
 
 📁 Dataset Overview
 Structured mock data covering:
@@ -71,12 +82,17 @@ Filter interactions optimized for root-cause analysis
 
 Demonstrated how PPE and supervision correlate with injury cost
 
+
+
 📸 Dashboard Preview
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/97ddd6e1-4f0a-4724-a02d-783c6d35967f" />
 
 
 👤 Author
 Anthony Eddei Kwofie
 LinkedIn | GitHub
+
+
 
 📬 How to Use
 Open .pbix in Power BI Desktop
