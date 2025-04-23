@@ -1,7 +1,7 @@
 # 💼 OHS Incident Analytics Dashboard – Power BI
 
 ## 📊 Overview  
-**King Size Construction Ltd.** is a leading Ghanaian construction company known for delivering major infrastructure, engineering, and real estate projects. Operating in hazardous environments, the company places high priority on workplace safety and operational risk reduction.
+**Kings Height Construction Ltd.** is a leading Ghanaian construction company known for delivering major infrastructure, engineering, and real estate projects. Operating in hazardous environments, the company places high priority on workplace safety and operational risk reduction.
 
 To support this mission, a Power BI dashboard was developed to analyze **700+ simulated incident records** across sectors such as Construction, Mining, Manufacturing, and Oil & Gas. It provides **real-time safety intelligence** to help the Health, Safety & Environment (HSE) team make data-driven decisions.
 
@@ -72,7 +72,6 @@ To support this mission, a Power BI dashboard was developed to analyze **700+ si
 
 ## 📸 Screenshot  
 <img width="633" alt="image" src="https://github.com/user-attachments/assets/813b27ea-48e1-4ac5-a3f0-1c1b06de0643" >
-
 
 ---
 
