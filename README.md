@@ -71,8 +71,8 @@ To support this mission, a Power BI dashboard was developed to analyze **700+ si
 ---
 
 ## 📸 Screenshot  
-!(<img width="633" alt="image" src="https://github.com/user-attachments/assets/813b27ea-48e1-4ac5-a3f0-1c1b06de0643" />
-)
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/813b27ea-48e1-4ac5-a3f0-1c1b06de0643" >
+
 
 ---
 
